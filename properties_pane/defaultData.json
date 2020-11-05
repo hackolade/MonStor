@@ -13,6 +13,9 @@
 		"indexes": [],
 		"collation": {}
 	},
+	"nestedCollection": {
+		"collectionName": "New document set"
+	},
 	"field": {
 		"name": "New field"
 	},
